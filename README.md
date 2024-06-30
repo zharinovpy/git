@@ -30,7 +30,7 @@
 
 ### Задание 2
 
-[Add .gitignore](https://github.com/zharinovpy/git2/commit/f7620084dea2a6d39e48cd22d04854dfce8eca7e)
+[Add .gitignore](https://github.com/zharinovpy/git2/commit/556ebf3e492b585d3fb67d0218f8de299719de09)
 
 ---
 
